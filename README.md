@@ -3,8 +3,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** Faiaz Bin Nesar
+- **CCID:** faiazbin
 
 ## References and Resources
 
